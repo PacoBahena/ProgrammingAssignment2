@@ -1,7 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Paco´s code solution
 
-## Write a short comment describing this function
+## this function is actually a list with elements to be called by the next function in order
+##to calculate the inverse matrix if not cached already
 
 makeCacheMatrix <- function(x = matrix()) {
   
